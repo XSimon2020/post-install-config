@@ -22,8 +22,6 @@ This demonstration outlines the various configurations that can be used when set
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure VM
+- Completion of [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)'
 
-- Microsoft Remote Desktop
-
-- Completion of [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
+- http://localhost/osTicket/scp/login.php
