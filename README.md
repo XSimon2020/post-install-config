@@ -26,4 +26,4 @@ This demonstration outlines the various configurations that can be used when set
 
 - Microsoft Remote Desktop
 
-- Completion of [osTicket: Post-Installation Configuration](https://github.com/XSimon2020/post-install-config)
+- Completion of [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
