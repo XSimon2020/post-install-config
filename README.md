@@ -32,7 +32,7 @@ This demonstration outlines the various configurations that can be used when set
 </p>
 Copy the link URL: http://localhost/osTicket/scp/login.php and paste it onto Microsoft Edge within the vm to get to your helpdesk login page. Type the username and password you set up previously. 
 <p>
-<br />
+<br/>
 
 <p>
 2) Add team.
@@ -41,7 +41,7 @@ Copy the link URL: http://localhost/osTicket/scp/login.php and paste it onto Mic
 </p>
 On the "Admin Panel", go to "Teams" within the "Agents" tab to add a new team. Click "Add New Team" then type "Level II Support" for the name of the team within the "Team" tab then click "Create Team".
 <p>
-<br />
+<br/>
 
 <p>
 3) Add agents.
@@ -55,7 +55,7 @@ On the "Admin Panel", go to "Teams" within the "Agents" tab to add a new team. C
 </p>
 On the "Admin Panel", go to "Agents" within the "Agents" tab to start adding new agents. Click "Add New Agent" and fill out the information like it is shown in the screenshots. Leave the "Permissions" tab untouched. Add a different agent with a similar process like the previous except assign this one to "Support" for the primary department with "Expanded Access" and no extended access. 
 <p>
-<br /> 
+<br/> 
 
 <p>
 4) Add help topics.
@@ -67,7 +67,7 @@ On the "Admin Panel", go to "Agents" within the "Agents" tab to start adding new
 </p>
 On the "Admin Panel", go to "Help Topics" within the "Manage" tab to add help topics. Click "Add New Help Topic" then type out all the help topics as shown in the screenshots tab. Click "Add Topic" for each topic.
 <p>
-<br />
+<br/>
 
 <p>
 5) Add SLA plans.
@@ -77,7 +77,7 @@ On the "Admin Panel", go to "Help Topics" within the "Manage" tab to add help to
 </p>
 On the "Admin Panel", go to "SLA" within the "Manage" tab to add SLA plans. Click "Add New SLA Plan" then type out each plan as shown in the screenshots. Click "Add Plan" for each plan.
 <p>
-<br />
+<br/>
 
 <p>
 6) Add users.
@@ -87,7 +87,7 @@ On the "Admin Panel", go to "SLA" within the "Manage" tab to add SLA plans. Clic
 </p>
 On the "Agent Panel", go to "User Directory" within the "Users" tab to add users. Click "Add User" then type out each user like how its shown in the screenshots. You should have a total of two users added.
 <p>
-<br />
+<br/>
 
 <b>This marks the end of the tutorial.<b>
 
