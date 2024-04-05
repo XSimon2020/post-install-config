@@ -50,13 +50,50 @@ On the "Admin Panel", go to "Teams" within the "Agents" tab to add a new team. C
 <p>
 3) Add agents.
 <img width="1156" alt="Screenshot 2024-04-05 at 8 00 15 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/8449d792-78ea-43fd-b1ec-8f081b19736d">
-<img width="1168" alt="Screenshot 2024-04-05 at 8 41 13 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/6d399883-9b6f-4016-abac-b74026286c34">
-<img width="1168" alt="Screenshot 2024-04-05 at 8 42 27 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/7e6d406b-d784-4770-8df3-faf69cc8f147">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/33384238-95b3-42f5-9065-bc3ebcdd5af5">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/3c5cb283-6def-4f5b-9ff3-53341cfe4e84">
 <img width="1168" alt="Screenshot 2024-04-05 at 8 38 13 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/15125377-ec34-43ba-bee6-534315b07039">
 <img width="1168" alt="Screenshot 2024-04-05 at 8 39 44 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/1334290b-954b-464f-8cf1-48b1336fd406">
 </p>
 On the "Admin Panel", go to "Agents" within the "Agents" tab to start adding new agents. Click "Add New Agent" and fill out the information like it is shown in the screenshots. Reapeat this process to add another agent except assign this agent with "Expanded Access" and instead of "All Access" and assign to "Level II Support" instead of "Level I Support". You should have a total of two new agents created.
 <p>
+<br /> 
+
+<p>
+4) Add help topics.
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/5a1d3afd-c61e-49a0-91a9-028671c55b76">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/a82d35fc-ae24-497a-976f-3481bc6a468e">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/f65f9df6-14d5-45dd-8135-1fc54b67f6cb">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/ce79038c-b184-4fd2-a470-f3b6dd717bad">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/1db5d787-8f89-46d0-992e-9a1d55973241">
+</p>
+On the "Admin Panel", go to "Help Topics" within the "Manage" tab to add help topics. Click "Add New Help Topic" then type out all the help topics as shown in the screenshots tab. Click "Add Topic" for each topic.
+<p>
 <br />
+
+<p>
+5) Add SLA plans.
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/950cc6dc-11d1-4642-8e9f-4d7b2d98aff9">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/4347a947-f026-4b99-afd4-0dc6a63fb339">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/dad21765-6b1b-417a-80f6-a20b54ab0bba">
+</p>
+On the "Admin Panel", go to "SLA" within the "Manage" tab to add SLA plans. Click "Add New SLA Plan" then type out each plan as shown in the screenshots. Click "Add Plan" for each plan.
+<p>
+<br />
+
+<p>
+6) Add users.
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/23f5bbef-21c5-417e-b9ed-2f71df01c0f2">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/602f1cae-7dbf-4464-9c25-4d62f5c1253b">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/05d1457c-25b9-4405-9f5e-dd784adba55c">
+</p>
+On the "Agent Panel", go to "User Directory" within the "Users" tab to add users. Click "Add User" then type out each user like how its shown in the screenshots. You should have a total of two users added.
+<p>
+<br />
+
+
+
+
+
 
 
