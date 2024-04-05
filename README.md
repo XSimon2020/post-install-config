@@ -24,10 +24,6 @@ This demonstration outlines the various configurations that can be used when set
 
 - Completion of [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
 
-- http://localhost/osTicket/scp/login.php
-
-- http://localhost/osTicket/
-
 <h2>Steps</h2>
 
 <p>
