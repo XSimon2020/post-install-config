@@ -52,10 +52,12 @@ On the "Admin Panel", go to "Teams" within the "Agents" tab to add a new team. C
 <img width="1156" alt="Screenshot 2024-04-05 at 8 00 15 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/8449d792-78ea-43fd-b1ec-8f081b19736d">
 <img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/33384238-95b3-42f5-9065-bc3ebcdd5af5">
 <img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/3c5cb283-6def-4f5b-9ff3-53341cfe4e84">
-<img width="1168" alt="Screenshot 2024-04-05 at 8 38 13 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/15125377-ec34-43ba-bee6-534315b07039">
-<img width="1168" alt="Screenshot 2024-04-05 at 8 39 44 AM" src="https://github.com/XSimon2020/post-install-config/assets/111246513/1334290b-954b-464f-8cf1-48b1336fd406">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/99f66fe6-bf0c-43ba-9a4c-3161fd63d669">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/6db78054-b0e3-46b6-9ccd-0dd30ef27c9c">
+<img width="1168" alt="image" src="https://github.com/XSimon2020/post-install-config/assets/111246513/5fb109ae-bf1b-4434-a143-fd3124d6f83c">
+
 </p>
-On the "Admin Panel", go to "Agents" within the "Agents" tab to start adding new agents. Click "Add New Agent" and fill out the information like it is shown in the screenshots. Reapeat this process to add another agent except assign this agent with "Expanded Access" and instead of "All Access" and assign to "Level II Support" instead of "Level I Support". You should have a total of two new agents created.
+On the "Admin Panel", go to "Agents" within the "Agents" tab to start adding new agents. Click "Add New Agent" and fill out the information like it is shown in the screenshots. Leave the "Permissions" tab untouched. Add a different agent with a similar process like the previous except assign this one to "Support" for the primary department with "Expanded Access" and no extended access. 
 <p>
 <br /> 
 
@@ -90,6 +92,8 @@ On the "Admin Panel", go to "SLA" within the "Manage" tab to add SLA plans. Clic
 On the "Agent Panel", go to "User Directory" within the "Users" tab to add users. Click "Add User" then type out each user like how its shown in the screenshots. You should have a total of two users added.
 <p>
 <br />
+
+<b>This marks the end of the tutorial.<b>
 
 
 
