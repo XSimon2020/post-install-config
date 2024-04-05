@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This demonstration outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Post-Installation Configuration</h1>
+This demonstration outlines the various configurations that can be used when setting up the open-source help desk ticketing system osTicket after installation.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -25,3 +25,5 @@ This demonstration outlines the prerequisites and installation of the open-sourc
 - Microsoft Azure VM
 
 - Microsoft Remote Desktop
+
+- Completion of [osTicket: Post-Installation Configuration](https://github.com/XSimon2020/post-install-config)
