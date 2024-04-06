@@ -82,7 +82,7 @@ On the "Agent Panel", go to "User Directory" within the "Users" tab to add users
 </p>
 <br/>
 
-<b>This marks the end of the tutorial.<b>
+<b>This marks the end of the demonstration.<b>
 
 
 
