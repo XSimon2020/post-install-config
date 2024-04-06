@@ -5,7 +5,7 @@
 </p>
 
 <h1>osTicket - Post-Installation Configuration</h1>
-This demonstration outlines the various configurations that can be used when setting up the open-source help desk ticketing system osTicket after installation.<br />
+This demonstration outlines the various configurations that can be used when setting up osTicket after installation.<br />
 
 
 <h2>Environments and Technologies Used</h2>
